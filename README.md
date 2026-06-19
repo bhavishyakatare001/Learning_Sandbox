@@ -5,7 +5,7 @@ A dedicated space for daily code practice, algorithmic problem-solving, and foun
 ##  Current Focus
 * **Python:** Mastering core foundations, data science libraries, and scripting.
 * **C++:** Implementing robust data structures and competitive algorithms.
-* **Machine Learning:** Establishing the prerequisites for advanced ML pathways.
+* **Machine Learning:** Establishing the prerequisites for ML pathways.
 
 ##  Repository Structure
 *(Note: Folders will be created as concepts are explored)*
@@ -16,5 +16,5 @@ A dedicated space for daily code practice, algorithmic problem-solving, and foun
 * `/data_science_prep` - Exploratory data analysis, Pandas/NumPy practice.
 * `/terminal_scripts` - Useful bash scripts, automation, and Arch Linux environment tweaks.
 
-## 🚀 Trajectory
+##  Trajectory
 The overarching goal of this sandbox is to build the rigorous technical foundation required for advanced AI research, specifically contributing to scalable machine learning systems and AGI development.

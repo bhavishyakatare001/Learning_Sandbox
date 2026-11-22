@@ -2,3 +2,7 @@ bin/
 *.out
 *.exe
 .vscode/
+
+# Program output
+*.log
+__pycache__/
